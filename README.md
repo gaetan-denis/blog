@@ -4,15 +4,13 @@ Welcome to my personal blog! This project allows me to put my web development sk
 
 ## Overview
 
-In this blog, I will publish articles on various topics related to web development, programming, technology, and other subjects that interest me. My goal is to learn, share, and engage with fellow technology enthusiasts.
+In this blog, I will publish articles on various topics related to music, hiking in Belgium, and learning the Walloon language. My goal is to learn, share, and engage with fellow enthusiasts in these areas while applying the techniques I've learned in my web developer curriculum.
 
 ## Technologies Used
 
 - HTML
 - CSS
 - JavaScript
-- Framework (if using one, such as React, Vue.js, etc.)
-- Other technologies or tools (database, content management system, etc.)
 
 ## How to Run Locally
 
